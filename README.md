@@ -15,7 +15,7 @@
 修改系统温控与充电策略存在风险，可能导致发热升高、充电行为异常，甚至影响设备稳定性。请自行评估并承担后果。
 
 ## 安装
-1. 从 Release 下载最新版本
+1. 从 [Release](https://github.com/KEKKJ123/begonia-charge-fix/releases/latest) 下载最新版本
 2. 通过 KernelSU / Magisk / SukiSU 安装模块
 3. 重启设备
 
