@@ -1,7 +1,7 @@
 id=begonia_charge_fix
 name=Begonia Charge Thermal Fix
-version=v0.1
-versionCode=001
+version=v0.2
+versionCode=002
 author=KEKKJ
 description=Raise charging thermal throttle thresholds by 5°C for Redmi Note 8 Pro (begonia) on LineageOS 20
 minMagisk=23000
